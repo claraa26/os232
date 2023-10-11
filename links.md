@@ -8,5 +8,6 @@ permalink: LINKS/
 * [Mounting File System](https://rafikaamalabar.wordpress.com/2012/07/13/mounting-file-system/) ---
 Pengantar Editor VI. Ini menjelaskan berbagai mode dan banyak perintah yang dimiliki editor.
 * [The Advantages of Linux for Operating System](https://www.linode.com/docs/guides/benefits-of-linux/) --- Menjelaskan tentang keuntungan menggunakan linux serta mengapa harus menggunakan linux untuk sistem operasi
+* [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory) --- Penjelasan tentang virtual memory dan bagaimana virtual memory bekerja
 <br>
 <hr>

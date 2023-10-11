@@ -31,3 +31,8 @@ ZCZC W04 60	L00 Study
 ZCZC W04 10	Github related
 ZCZC W04 10	Github pages related
 ZCZC W04 180	L09 Weekly Assignment
+ZCZC W05 200    L02 Offline Class
+ZCZC W05 70     L00 Study
+ZCZC W05 20     L05 Kuis
+ZCZC W05 15     Github related
+ZCZC W05 10     Github pages related
