@@ -9,5 +9,7 @@ permalink: LINKS/
 Pengantar Editor VI. Ini menjelaskan berbagai mode dan banyak perintah yang dimiliki editor.
 * [The Advantages of Linux for Operating System](https://www.linode.com/docs/guides/benefits-of-linux/) --- Menjelaskan tentang keuntungan menggunakan linux serta mengapa harus menggunakan linux untuk sistem operasi
 * [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory) --- Penjelasan tentang virtual memory dan bagaimana virtual memory bekerja
+* [Different fork(), vfork(), exec(), clone](https://www.baeldung.com/linux/fork-vfork-exec-clone) --- penjelasan perbedaan fork(), vfork(), exec() and clone() di c++
+* [Process in Operating Systems](https://www.javatpoint.com/what-is-the-process-in-operating-system) --- Memberikan penjelasan apa itu proses pada sistem operasi
 <br>
 <hr>
