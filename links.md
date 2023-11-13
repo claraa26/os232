@@ -11,5 +11,7 @@ Pengantar Editor VI. Ini menjelaskan berbagai mode dan banyak perintah yang dimi
 * [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory) --- Penjelasan tentang virtual memory dan bagaimana virtual memory bekerja
 * [Different fork(), vfork(), exec(), clone](https://www.baeldung.com/linux/fork-vfork-exec-clone) --- penjelasan perbedaan fork(), vfork(), exec() and clone() di c++
 * [Process in Operating Systems](https://www.javatpoint.com/what-is-the-process-in-operating-system) --- Memberikan penjelasan apa itu proses pada sistem operasi
+* [Process Synchronization in OS (Operating System)](https://www.javatpoint.com/os-process-synchronization-introduction) Menjelaskan sinkronisasi tentang sistem operasi
+* [Deadlock: What It Is, How to Detect, Handle and Prevent?](https://www.baeldung.com/cs/os-deadlock) Menjelaskan tentang deadlock cara mendeteksi dan menghandle
 <br>
 <hr>
