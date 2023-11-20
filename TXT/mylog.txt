@@ -48,3 +48,8 @@ ZCZC W07 20	L05 Kuis
 ZCZC W07 15	L03 Github related
 ZCZC W07 10	L04 Github pages related
 ZCZC W07 120	L09 Weekly Assignment
+ZCZC W08 200	L02 Offline class
+ZCZC W08 60	L00 Study
+ZCZC W08 15	L05 Kuis
+ZCZC W08 400	L09 Weekly Assignment
+ZCZC W08 10	L04 Github pages related

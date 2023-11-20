@@ -13,5 +13,6 @@ Pengantar Editor VI. Ini menjelaskan berbagai mode dan banyak perintah yang dimi
 * [Process in Operating Systems](https://www.javatpoint.com/what-is-the-process-in-operating-system) --- Memberikan penjelasan apa itu proses pada sistem operasi
 * [Process Synchronization in OS (Operating System)](https://www.javatpoint.com/os-process-synchronization-introduction) Menjelaskan sinkronisasi tentang sistem operasi
 * [Deadlock: What It Is, How to Detect, Handle and Prevent?](https://www.baeldung.com/cs/os-deadlock) Menjelaskan tentang deadlock cara mendeteksi dan menghandle
+* [Compiling a Cross-Toolchain - How to build Linux From Scratch](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=7) Menjelaskan How to build Linux From Scratch
 <br>
 <hr>
